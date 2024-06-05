@@ -1,5 +1,5 @@
 # stock_price_prediction-
-This is for the finale project of Machine Learning. Major of Bachelors in Artificial Intelligence at Centro de Investion en Ciencias (UAEM)
+This repository contains the final project of Machine Learning. Major of Bachelors in Artificial Intelligence at Centro de Investion en Ciencias (UAEM)
 Created by Cristopher Axel Diaz Martinez.
 # Purpose
 
